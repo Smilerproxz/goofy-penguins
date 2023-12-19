@@ -1,2 +1,3 @@
-# goofy-penguins
-goofy
+goofy penguins
+---------------
+simple fork from cplegacy
